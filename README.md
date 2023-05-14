@@ -21,6 +21,7 @@ Mô tả bài toán:
 - Mô phỏng các bài toán theo yêu cầu đề bài
 
 **Exercise 4:**
+
 Mô tả bài toán:
 - Phương pháp MCMC và Thống kê Bayes tính toán
 
